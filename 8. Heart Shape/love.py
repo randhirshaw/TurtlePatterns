@@ -1,4 +1,5 @@
 from turtle import *
+bgcolor('black')
 color('red')
 begin_fill()
 pensize(3)
